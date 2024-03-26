@@ -36,7 +36,7 @@ def main():
         pygame.display.update()
         clock.tick(max_frame_rate)
     return 'restart'
-
+# test
 
 if __name__ == "__main__":
     exitmessage = 'restart'
